@@ -1,0 +1,8 @@
+[
+ { 
+    "result": "seed_peanut",
+    "type": "recipe",
+    "copy-from": "seed_extraction_base",
+    "components": [ [ [ "peanut", 1 ] ] ]
+  }
+]

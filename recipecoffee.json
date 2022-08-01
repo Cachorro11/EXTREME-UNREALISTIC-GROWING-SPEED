@@ -1,0 +1,8 @@
+[
+ { 
+    "result": "seed_coffee",
+    "type": "recipe",
+    "copy-from": "seed_extraction_base",
+    "components": [ [ [ "coffee_bean", 1 ] ] ]
+  }
+]

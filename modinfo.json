@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "extremeunrealisticgrownspeed",
+    "name": "Extreme-Unrealistic-Growing-Speed",
+    "authors": [ "Cachorro11" ],
+    "maintainers": [ "Cachorro11" ],
+    "description": "This "Mod" Make the growing speed to much unrealistic, like 2-5 days grown, if you want play cataclysm with minecraft mechanic, its here.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

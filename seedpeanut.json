@@ -1,0 +1,10 @@
+[
+  {
+    "id": "seed_peanut",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "peanut seeds" },
+    "description": "Some peanut seed.",
+    "seed_data": { "plant_name": "peanut", "fruit": "peanut", "byproducts": [ "withered" ], "grow": "2 days" }
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "seed_coffee",
+    "copy-from": "seed_fruit",
+    "type": "COMESTIBLE",
+    "name": { "str_sp": "coffee seeds" },
+    "description": "Some coffee seed.",
+    "seed_data": { "plant_name": "coffee", "fruit": "coffee_bean", "byproducts": [ "withered" ], "grow": "2 days" }
+  }
+]
