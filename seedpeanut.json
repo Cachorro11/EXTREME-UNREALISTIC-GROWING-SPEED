@@ -5,6 +5,6 @@
     "type": "COMESTIBLE",
     "name": { "str_sp": "peanut seeds" },
     "description": "Some peanut seed.",
-    "seed_data": { "plant_name": "peanut", "fruit": "peanut", "byproducts": [ "withered" ], "grow": "2 days" }
+    "seed_data": { "plant_name": "peanut", "fruit": "peanut", "byproducts": [ "withered" ], "grow": "5 days" }
   }
 ]
