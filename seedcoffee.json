@@ -5,6 +5,6 @@
     "type": "COMESTIBLE",
     "name": { "str_sp": "coffee seeds" },
     "description": "Some coffee seed.",
-    "seed_data": { "plant_name": "coffee", "fruit": "coffee_bean", "byproducts": [ "withered" ], "grow": "5 days" }
+    "seed_data": { "plant_name": "coffee", "fruit": "coffee_bean", "byproducts": [ "withered" ], "grow": "10 days" }
   }
 ]
