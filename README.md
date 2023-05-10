@@ -1,3 +1,3 @@
 # EXTREME-UNREALISTIC-GROWING-SPEED
-Make all crops in the game grown extreme fast (Download only If you dont care with realism), i call this mod as "Minecraft Grown Speed".
+Make all crops in the game grown extreme fast (Download only If you dont care with realism).
 (Peanut and Coffee Farm Included With Fast Grown Speed Delete the peanut and coffee files if dont want, If want, disable the Normal Peanut and Coffee Farm) 
